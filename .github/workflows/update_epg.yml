@@ -20,12 +20,18 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: EPG-ləri birləşdir
+      - name: Lazımi kitabxanaları quraşdır
+        run: pip install requests
+
+      - name: Azərbaycan EPG-sini yarat
         run: python merge_epg.py
 
-      - name: Dəyişiklikləri göndər
+      - name: Türkiyə EPG-sini yarat
+        run: python epg_tr.py
+
+      - name: Dəyişiklikləri GitHub-a göndər
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add epg.xml epg.xml.gz
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update EPG" && git push)
+          git add epg.xml epg.xml.gz epg_tr.xml epg_tr.xml.gz
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update AZ and TR EPGs" && git push)
