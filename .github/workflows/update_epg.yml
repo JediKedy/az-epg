@@ -1,0 +1,31 @@
+name: Update EPG Daily
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Hər gün səhər saat 03:00 UTC-də avtomatik yeniləyir
+  workflow_dispatch:     # GitHub-dan əl ilə "Run workflow" etmək üçün
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Reponu yüklə
+        uses: actions/checkout@v4
+
+      - name: Python quraşdır
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: EPG-ləri birləşdir
+        run: python merge_epg.py
+
+      - name: Dəyişiklikləri göndər
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add epg.xml epg.xml.gz
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update EPG" && git push)
