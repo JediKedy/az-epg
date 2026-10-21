@@ -2,7 +2,7 @@
 <tv generator-info-name="TVPlus_TR_EPG">
   <channel id="TRT1.tr">
     <display-name>TRT1</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202510/20251030/58/0915123165535eb88428_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202510/20251030/58/0915123165535eb88428_op_0_XL.webp" />
   </channel>
   <programme channel="TRT1.tr" start="20261021011500 +0400" stop="20261021031500 +0400">
     <title lang="tr">Teşkilat</title>
@@ -83,7 +83,7 @@ Ayrıca yurdun dört bir yayınından farklı konu ve konuklar, ünlü şef Beyh
   </programme>
   <channel id="KANALD.tr">
     <display-name>KANAL D</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/87/0937065579965eb8f42a_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/87/0937065579965eb8f42a_op_0_XL.webp" />
   </channel>
   <programme channel="KANALD.tr" start="20261021011500 +0400" stop="20261021040000 +0400">
     <title lang="tr">Daha 17</title>
@@ -143,7 +143,7 @@ Haluk'un desteğini alan Suzan'ın attığı adım, Karlıova ailesini beklenmed
   </programme>
   <channel id="STARTV.tr">
     <display-name>STAR TV</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/64/1003520560175eb8f42a_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/64/1003520560175eb8f42a_op_0_XL.webp" />
   </channel>
   <programme channel="STARTV.tr" start="20261021011500 +0400" stop="20261021040000 +0400">
     <title lang="tr">Başkalarının Hayatı</title>
@@ -207,7 +207,7 @@ Deneyimli spiker Nazlı Çelik'in sunduğu Star Haber'de gündemdeki olayların 
   </programme>
   <channel id="ATV.tr">
     <display-name>ATV</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/71/0916028009315eb88428_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/71/0916028009315eb88428_op_0_XL.webp" />
   </channel>
   <programme channel="ATV.tr" start="20261021034000 +0400" stop="20261021063000 +0400">
     <title lang="tr">A.B.İ.</title>
@@ -271,7 +271,7 @@ Naz ve Fahriye hiç hesapta yokken yakınlaşır. Bu yakınlaşma Naz'ı uzak du
   </programme>
   <channel id="SHOWTV.tr">
     <display-name>SHOW TV</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/96/0948464043915eb9542c_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/96/0948464043915eb9542c_op_0_XL.webp" />
   </channel>
   <programme channel="SHOWTV.tr" start="20261021021500 +0400" stop="20261021043000 +0400">
     <title lang="tr">Kızılcık Şerbeti</title>
@@ -321,7 +321,7 @@ Kuzey, yıllar önce binbir umutla geldiği ve hayallerini, en güzel günlerini
   </programme>
   <channel id="NOW.tr">
     <display-name>NOW</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/82/0947057422345eb7f426_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/82/0947057422345eb7f426_op_0_XL.webp" />
   </channel>
   <programme channel="NOW.tr" start="20261021033000 +0400" stop="20261021054500 +0400">
     <title lang="tr">Sevdam Karadeniz</title>
@@ -391,7 +391,7 @@ Kendine güvenen hamarat yarışmacılar ayrıca çay saati için de birbirinden
   </programme>
   <channel id="TV8.tr">
     <display-name>TV8</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/98/1026575965175eb78424_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/98/1026575965175eb78424_op_0_XL.webp" />
   </channel>
   <programme channel="TV8.tr" start="20261021011500 +0400" stop="20261021023000 +0400">
     <title lang="tr">Yüzde Yüz Futbol</title>
@@ -452,7 +452,7 @@ Bu programda yok yok! En sıcak haberler, en ilginç olaylar, modadan estetiğe,
   </programme>
   <channel id="360.tr">
     <display-name>360</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/45/0909261639285eb88428_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/45/0909261639285eb88428_op_0_XL.webp" />
   </channel>
   <programme channel="360.tr" start="20261021014500 +0400" stop="20261021030000 +0400">
     <title lang="tr">Ben Bilirim</title>
@@ -557,7 +557,7 @@ Türklerin Ergenekon’dan çıkışının kutlandığı bir bayram esnasında, 
   </programme>
   <channel id="A2.tr">
     <display-name>A2</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/1/0914264009815eb8f42a_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/1/0914264009815eb8f42a_op_0_XL.webp" />
   </channel>
   <programme channel="A2.tr" start="20261021020000 +0400" stop="20261021040000 +0400">
     <title lang="tr">Yahşi Cazibe</title>
@@ -630,7 +630,7 @@ Yürek burkan kaza ve devamında Behram'ın vurulması bütün aileyi dehşete d
   </programme>
   <channel id="TLC.tr">
     <display-name>TLC</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/19/1012439745095eb78424_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/19/1012439745095eb78424_op_0_XL.webp" />
   </channel>
   <programme channel="TLC.tr" start="20261021013000 +0400" stop="20261021020000 +0400">
     <title lang="tr">Bir Katilin Alametleri</title>
@@ -809,7 +809,7 @@ Yürek burkan kaza ve devamında Behram'ın vurulması bütün aileyi dehşete d
   </programme>
   <channel id="TV2.tr">
     <display-name>TV2</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202512/20251231/11/2216507637295eb9b42e_op_0_XL.png" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202512/20251231/11/2216507637295eb9b42e_op_0_XL.png" />
   </channel>
   <programme channel="TV2.tr" start="20261021023000 +0400" stop="20261021033000 +0400">
     <title lang="tr">Kelime Oyunu</title>
@@ -888,7 +888,7 @@ Ancak altı aylık bir Avrupa seyahatinden dönen Muzaffer Bey, Güllü’yü te
   </programme>
   <channel id="KANAL7.tr">
     <display-name>KANAL 7</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/7/2112241317575eb7f426_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/7/2112241317575eb7f426_op_0_XL.webp" />
   </channel>
   <programme channel="KANAL7.tr" start="20261021011500 +0400" stop="20261021025000 +0400">
     <title lang="tr">Sana Her Baktığımda</title>
@@ -947,7 +947,7 @@ Ancak altı aylık bir Avrupa seyahatinden dönen Muzaffer Bey, Güllü’yü te
   </programme>
   <channel id="BEYAZTV.tr">
     <display-name>BEYAZ TV</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/53/2113355458665eb9b42e_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/53/2113355458665eb9b42e_op_0_XL.webp" />
   </channel>
   <programme channel="BEYAZTV.tr" start="20261021020000 +0400" stop="20261021044500 +0400">
     <title lang="tr">Küçük Dev Asker</title>
@@ -1021,7 +1021,7 @@ Ancak altı aylık bir Avrupa seyahatinden dönen Muzaffer Bey, Güllü’yü te
   </programme>
   <channel id="TV100.tr">
     <display-name>TV100</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/2/2114544793695eb8f42a_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/2/2114544793695eb8f42a_op_0_XL.webp" />
   </channel>
   <programme channel="TV100.tr" start="20261021020000 +0400" stop="20261021050000 +0400">
     <title lang="tr">Başak Şengül ile Doğru Yorum</title>
@@ -1072,7 +1072,7 @@ Siyasetin, insanın ve sokağın nabzını tutan program; canlı bağlantılar, 
   </programme>
   <channel id="DMAX.tr">
     <display-name>DMAX</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/14/0929073243795eb9542c_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/14/0929073243795eb9542c_op_0_XL.webp" />
   </channel>
   <programme channel="DMAX.tr" start="20261021010000 +0400" stop="20261021013000 +0400">
     <title lang="tr">Nakliye Savaşları</title>
@@ -1246,7 +1246,7 @@ Siyasetin, insanın ve sokağın nabzını tutan program; canlı bağlantılar, 
   </programme>
   <channel id="TV85.tr">
     <display-name>TV8,5</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/45/1027323438155eb9b42e_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/45/1027323438155eb9b42e_op_0_XL.webp" />
   </channel>
   <programme channel="TV85.tr" start="20261021011500 +0400" stop="20261021021500 +0400">
     <title lang="tr">En İyi Nakavtlar</title>
@@ -1319,7 +1319,7 @@ Yıllar sonra tekrar bir araya gelirler. Şimdi bütün sırların çözülme za
   </programme>
   <channel id="TV4.tr">
     <display-name>TV 4</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/37/2118109050615eb9542c_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/37/2118109050615eb9542c_op_0_XL.webp" />
   </channel>
   <programme channel="TV4.tr" start="20261021010000 +0400" stop="20261021013000 +0400">
     <title lang="tr">Bil Bilebilirsen</title>
@@ -1443,7 +1443,7 @@ Yıllar sonra tekrar bir araya gelirler. Şimdi bütün sırların çözülme za
   </programme>
   <channel id="CNNTURK.tr">
     <display-name>CNN TÜRK</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/60/0924025077665eb78424_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/60/0924025077665eb78424_op_0_XL.webp" />
   </channel>
   <programme channel="CNNTURK.tr" start="20261021020000 +0400" stop="20261021030000 +0400">
     <title lang="tr">Gece Haberleri</title>
@@ -1529,7 +1529,7 @@ Dünyada ve Türkiye'de olup biten tüm gelişmeler Ana Haber'de izleyicilere su
   </programme>
   <channel id="NTV.tr">
     <display-name>NTV</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/36/0947520532355eb7f426_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/36/0947520532355eb7f426_op_0_XL.webp" />
   </channel>
   <programme channel="NTV.tr" start="20261021010000 +0400" stop="20261021015000 +0400">
     <title lang="tr">Bugün Yarın</title>
@@ -1965,7 +1965,7 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <channel id="HABERTURK.tr">
     <display-name>HABERTÜRK</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/27/0935195248285eb78424_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/27/0935195248285eb78424_op_0_XL.webp" />
   </channel>
   <programme channel="HABERTURK.tr" start="20261021020000 +0400" stop="20261021041500 +0400">
     <title lang="tr">Haber Bülteni</title>
@@ -2058,7 +2058,7 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   </programme>
   <channel id="AHABER.tr">
     <display-name>A HABER</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/78/0910272687595eb78424_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/78/0910272687595eb78424_op_0_XL.webp" />
   </channel>
   <programme channel="AHABER.tr" start="20261021030000 +0400" stop="20261021040000 +0400">
     <title lang="tr">A Haber Gece</title>
@@ -2194,7 +2194,7 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   </programme>
   <channel id="TRTSPOR.tr">
     <display-name>TRT SPOR</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/64/1023220948135eb9b42e_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/64/1023220948135eb9b42e_op_0_XL.webp" />
   </channel>
   <programme channel="TRTSPOR.tr" start="20261021010000 +0400" stop="20261021023000 +0400">
     <title lang="tr">Avrupa Stüdyosu</title>
@@ -2329,7 +2329,7 @@ Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Spor Ak
   </programme>
   <channel id="ASPOR.tr">
     <display-name>A SPOR</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/97/0913405847615eb78424_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/97/0913405847615eb78424_op_0_XL.webp" />
   </channel>
   <programme channel="ASPOR.tr" start="20261021010000 +0400" stop="20261021030000 +0400">
     <title lang="tr">Son Sayfa</title>
@@ -2396,7 +2396,7 @@ Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Spor Ak
   </programme>
   <channel id="TRTBELGESEL.tr">
     <display-name>TRT BELGESEL</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202510/20251030/80/0911523523045eb78424_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202510/20251030/80/0911523523045eb78424_op_0_XL.webp" />
   </channel>
   <programme channel="TRTBELGESEL.tr" start="20261021010000 +0400" stop="20261021013000 +0400">
     <title lang="tr">Aile Sofrası</title>
@@ -2560,7 +2560,7 @@ Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Spor Ak
   </programme>
   <channel id="CARTOONNETWORK.tr">
     <display-name>CARTOON NETWORK</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/15/0921355543825eb9b42e_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/15/0921355543825eb9b42e_op_0_XL.webp" />
   </channel>
   <programme channel="CARTOONNETWORK.tr" start="20261021011000 +0400" stop="20261021012000 +0400">
     <title lang="tr">Sürekli Dizi: Kayıp Kasetler</title>
@@ -3124,7 +3124,7 @@ Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Spor Ak
   </programme>
   <channel id="TRTCOCUK.tr">
     <display-name>TRT ÇOCUK</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/92/1018103992555eb8f42a_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/92/1018103992555eb8f42a_op_0_XL.webp" />
   </channel>
   <programme channel="TRTCOCUK.tr" start="20261021011500 +0400" stop="20261021013500 +0400">
     <title lang="tr">Maysa ve Bulut</title>
@@ -3479,7 +3479,7 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
   </programme>
   <channel id="MINIKAGO.tr">
     <display-name>MİNİKA GO</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/44/0939270193905eb9b42e_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/44/0939270193905eb9b42e_op_0_XL.webp" />
   </channel>
   <programme channel="MINIKAGO.tr" start="20261021010000 +0400" stop="20261021013000 +0400">
     <title lang="tr">Oscar Çöllerde</title>
@@ -4095,7 +4095,7 @@ macera başlar.</desc>
   </programme>
   <channel id="TRTWorld.tr">
     <display-name>TRT World</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/77/1024521270725eb88428_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/77/1024521270725eb88428_op_0_XL.webp" />
   </channel>
   <programme channel="TRTWorld.tr" start="20261021010000 +0400" stop="20261021013000 +0400">
     <title lang="tr">News - London</title>
@@ -4329,7 +4329,7 @@ macera başlar.</desc>
   </programme>
   <channel id="TRTMUZIK.tr">
     <display-name>TRT MÜZİK</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/97/1021361684625eb9542c_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/97/1021361684625eb9542c_op_0_XL.webp" />
   </channel>
   <programme channel="TRTMUZIK.tr" start="20261021010000 +0400" stop="20261021014500 +0400">
     <title lang="tr">Mazhar Alanson İle Kimler Kimler</title>
@@ -4483,7 +4483,7 @@ macera başlar.</desc>
   </programme>
   <channel id="TRTTURK.tr">
     <display-name>TRT TÜRK</display-name>
-    <icon src="https://izmottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/4/1024005375155eb78424_op_0_XL.webp" />
+    <icon src="https://izmaottvsc55.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/4/1024005375155eb78424_op_0_XL.webp" />
   </channel>
   <programme channel="TRTTURK.tr" start="20261021021500 +0400" stop="20261021024500 +0400">
     <title lang="tr">Leyla ile Mecnun</title>
