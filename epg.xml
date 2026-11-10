@@ -3,70 +3,6 @@
   <channel id="azertv">
     <display-name lang="ru">AZTV</display-name>
   </channel>
-  <programme channel="azertv" start="20261026070000 +0400" stop="20261026100000 +0400">
-    <title lang="ru">Telesəhər. Musiqi-informasiya proqramı</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="azertv" start="20261026100000 +0400" stop="20261026120000 +0400">
-    <title lang="ru">"Həftə". Analitik-informasiya proqramı</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="azertv" start="20261026120000 +0400" stop="20261026130000 +0400">
-    <title lang="ru">"Aztv xəbər"</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="azertv" start="20261026130000 +0400" stop="20261026140000 +0400">
-    <title lang="ru">"Hədəf"</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="azertv" start="20261026140000 +0400" stop="20261026143000 +0400">
-    <title lang="ru">"Bərəkətli olsun"</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="azertv" start="20261026143000 +0400" stop="20261026150000 +0400">
-    <title lang="ru">Sənədli film:</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="azertv" start="20261026150000 +0400" stop="20261026160000 +0400">
-    <title lang="ru">"Belə-belə işlər"</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="azertv" start="20261026160000 +0400" stop="20261026180000 +0400">
-    <title lang="ru">Bədii film: (Az.Film)</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="azertv" start="20261026180000 +0400" stop="20261026190000 +0400">
-    <title lang="ru">"Aztv xəbər"</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="azertv" start="20261026190000 +0400" stop="20261026193000 +0400">
-    <title lang="ru">"Region xəbərləri"</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="azertv" start="20261026193000 +0400" stop="20261026200000 +0400">
-    <title lang="ru">Parlament saatı</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="azertv" start="20261026200000 +0400" stop="20261026210000 +0400">
-    <title lang="ru">"Aztv xəbər"</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="azertv" start="20261026210000 +0400" stop="20261026220000 +0400">
-    <title lang="ru">"Yekun..."</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="azertv" start="20261026220000 +0400" stop="20261026230000 +0400">
-    <title lang="ru">"Aztv xəbər"</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="azertv" start="20261026230000 +0400" stop="20261027000000 +0400">
-    <title lang="ru">Milli serial: "IV Divar"</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="azertv" start="20261027000000 +0400" stop="20261027003000 +0400">
-    <title lang="ru">"Aztv xəbər"</title>
-    <desc lang="ru" />
-  </programme>
   <programme channel="azertv" start="20261027003000 +0400" stop="20261027021500 +0400">
     <title lang="ru">Bədii film:</title>
     <desc lang="ru" />
@@ -1327,65 +1263,109 @@
     <title lang="ru">"Aztv xəbər"</title>
     <desc lang="ru" />
   </programme>
-  <programme channel="azertv" start="20261109230000 +0400" stop="20261109230100 +0400">
+  <programme channel="azertv" start="20261109230000 +0400" stop="20261110000000 +0400">
+    <title lang="ru">Milli serial:  "IV Divar"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110000000 +0400" stop="20261110003000 +0400">
+    <title lang="ru">"Aztv xəbər"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110003000 +0400" stop="20261110021500 +0400">
+    <title lang="ru">Bədii film:</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110021500 +0400" stop="20261110031500 +0400">
+    <title lang="ru">"Hədəf"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110031500 +0400" stop="20261110050000 +0400">
+    <title lang="ru">Bədii film:      (Az.Film)</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110050000 +0400" stop="20261110051500 +0400">
+    <title lang="ru">"Anın  tarixi"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110051500 +0400" stop="20261110063000 +0400">
+    <title lang="ru">Milli serial:  "IV Divar"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110063000 +0400" stop="20261110070000 +0400">
+    <title lang="ru">"Belə-belə işlər"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110070000 +0400" stop="20261110080000 +0400">
+    <title lang="ru">Oxuyur Vətən</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110080000 +0400" stop="20261110100000 +0400">
+    <title lang="ru">Telesəhər. Musiqi-informasiya proqramı</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110100000 +0400" stop="20261110110000 +0400">
+    <title lang="ru">"Aztv xəbər"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110110000 +0400" stop="20261110120000 +0400">
+    <title lang="ru">Milli serial:  "IV Divar"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110120000 +0400" stop="20261110123000 +0400">
+    <title lang="ru">"Aztv xəbər"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110123000 +0400" stop="20261110143000 +0400">
+    <title lang="ru">Bədii film:      (Az.Film)</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110143000 +0400" stop="20261110160000 +0400">
+    <title lang="ru">"Hədəf"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110160000 +0400" stop="20261110163000 +0400">
+    <title lang="ru">"Aztv xəbər"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110163000 +0400" stop="20261110170000 +0400">
+    <title lang="ru">Sənədli film:</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110170000 +0400" stop="20261110180000 +0400">
+    <title lang="ru">"Belə-belə işlər"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110180000 +0400" stop="20261110190000 +0400">
+    <title lang="ru">"Aztv xəbər"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110190000 +0400" stop="20261110193000 +0400">
+    <title lang="ru">"Region xəbərləri"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110193000 +0400" stop="20261110200000 +0400">
+    <title lang="ru">Sənədli film:</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110200000 +0400" stop="20261110210000 +0400">
+    <title lang="ru">"Aztv xəbər"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110210000 +0400" stop="20261110220000 +0400">
+    <title lang="ru">"Yekun..."</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110220000 +0400" stop="20261110230000 +0400">
+    <title lang="ru">"Aztv xəbər"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="azertv" start="20261110230000 +0400" stop="20261110230100 +0400">
     <title lang="ru">Milli serial:  "IV Divar"</title>
     <desc lang="ru" />
   </programme>
   <channel id="xazartv">
     <display-name lang="ru">Xezer</display-name>
   </channel>
-  <programme channel="xazartv" start="20261026070000 +0400" stop="20261026100000 +0400">
-    <title lang="ru">XƏBƏR ERTƏSİ - CANLI</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="xazartv" start="20261026100000 +0400" stop="20261026123000 +0400">
-    <title lang="ru">İNCƏ SƏHƏR - CANLI</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="xazartv" start="20261026123000 +0400" stop="20261026131500 +0400">
-    <title lang="ru">KOMEDİXANA - TƏKRAR</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="xazartv" start="20261026131500 +0400" stop="20261026140000 +0400">
-    <title lang="ru">ÜMİDLƏ YAŞA - CANLI</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="xazartv" start="20261026140000 +0400" stop="20261026142000 +0400">
-    <title lang="ru">XƏZƏR XƏBƏR</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="xazartv" start="20261026142000 +0400" stop="20261026160000 +0400">
-    <title lang="ru">QONAQCANLI - CANLI</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="xazartv" start="20261026160000 +0400" stop="20261026180000 +0400">
-    <title lang="ru">TƏSİR DAİRƏSİ - CANLI</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="xazartv" start="20261026180000 +0400" stop="20261026182000 +0400">
-    <title lang="ru">XƏZƏR XƏBƏR</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="xazartv" start="20261026182000 +0400" stop="20261026210000 +0400">
-    <title lang="ru">XƏZƏR AXŞAMI - CANLI</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="xazartv" start="20261026210000 +0400" stop="20261026220000 +0400">
-    <title lang="ru">XƏZƏR XƏBƏR</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="xazartv" start="20261026220000 +0400" stop="20261026230000 +0400">
-    <title lang="ru">SERİAL - XƏYANƏT - YENİ</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="xazartv" start="20261026230000 +0400" stop="20261027000000 +0400">
-    <title lang="ru">SERİAL - QARDAŞ ANDI</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="xazartv" start="20261027000000 +0400" stop="20261027004500 +0400">
-    <title lang="ru">ATA OCAĞI - TƏKRAR</title>
-    <desc lang="ru" />
-  </programme>
   <programme channel="xazartv" start="20261027004500 +0400" stop="20261027013000 +0400">
     <title lang="ru">XEYİR KÖRPÜSÜ - YENİ</title>
     <desc lang="ru" />
@@ -2302,85 +2282,77 @@
     <title lang="ru">SERİAL - XƏYANƏT - YENİ</title>
     <desc lang="ru" />
   </programme>
-  <programme channel="xazartv" start="20261109230000 +0400" stop="20261109230100 +0400">
+  <programme channel="xazartv" start="20261109230000 +0400" stop="20261110000000 +0400">
+    <title lang="ru">SERİAL - QARDAŞ ANDI</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="xazartv" start="20261110000000 +0400" stop="20261110004500 +0400">
+    <title lang="ru">ATA OCAĞI - TƏKRAR</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="xazartv" start="20261110004500 +0400" stop="20261110013000 +0400">
+    <title lang="ru">XEYİR KÖRPÜSÜ - YENİ</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="xazartv" start="20261110013000 +0400" stop="20261110061500 +0400">
+    <title lang="ru">BƏDİİ FİLM</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="xazartv" start="20261110061500 +0400" stop="20261110070000 +0400">
+    <title lang="ru">İMTAHAN - TƏKRAR</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="xazartv" start="20261110070000 +0400" stop="20261110100000 +0400">
+    <title lang="ru">XƏBƏR ERTƏSİ - CANLI</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="xazartv" start="20261110100000 +0400" stop="20261110123000 +0400">
+    <title lang="ru">İNCƏ SƏHƏR</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="xazartv" start="20261110123000 +0400" stop="20261110131500 +0400">
+    <title lang="ru">KOMEDİXANA - TƏKRAR</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="xazartv" start="20261110131500 +0400" stop="20261110140000 +0400">
+    <title lang="ru">ÜMİDLƏ YAŞA - CANLI</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="xazartv" start="20261110140000 +0400" stop="20261110142000 +0400">
+    <title lang="ru">XƏZƏR XƏBƏR</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="xazartv" start="20261110142000 +0400" stop="20261110160000 +0400">
+    <title lang="ru">QONAQCANLI - CANLI</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="xazartv" start="20261110160000 +0400" stop="20261110180000 +0400">
+    <title lang="ru">TƏSİR DAİRƏSİ - CANLI</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="xazartv" start="20261110180000 +0400" stop="20261110182000 +0400">
+    <title lang="ru">XƏZƏR XƏBƏR</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="xazartv" start="20261110182000 +0400" stop="20261110210000 +0400">
+    <title lang="ru">XƏZƏR AXŞAMI</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="xazartv" start="20261110210000 +0400" stop="20261110220000 +0400">
+    <title lang="ru">XƏZƏR XƏBƏR</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="xazartv" start="20261110220000 +0400" stop="20261110230000 +0400">
+    <title lang="ru">SERİAL - XƏYANƏT - YENİ</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="xazartv" start="20261110230000 +0400" stop="20261110230100 +0400">
     <title lang="ru">SERİAL - QARDAŞ ANDI</title>
     <desc lang="ru" />
   </programme>
   <channel id="ictimaitele">
     <display-name lang="ru">ITV</display-name>
   </channel>
-  <programme channel="ictimaitele" start="20261026070000 +0400" stop="20261026100000 +0400">
-    <title lang="ru">Sabahın xeyir, Azərbaycan!</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ictimaitele" start="20261026100000 +0400" stop="20261026102500 +0400">
-    <title lang="ru">İTV Xəbər</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ictimaitele" start="20261026102500 +0400" stop="20261026120000 +0400">
-    <title lang="ru">Serial: "Braziliya prospekti"</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ictimaitele" start="20261026120000 +0400" stop="20261026122500 +0400">
-    <title lang="ru">İTV Xəbər</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ictimaitele" start="20261026122500 +0400" stop="20261026140000 +0400">
-    <title lang="ru">Xəbərimiz var</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ictimaitele" start="20261026140000 +0400" stop="20261026142500 +0400">
-    <title lang="ru">İTV Xəbər</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ictimaitele" start="20261026142500 +0400" stop="20261026150000 +0400">
-    <title lang="ru">61! İntellektual oyun</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ictimaitele" start="20261026150000 +0400" stop="20261026152500 +0400">
-    <title lang="ru">MAG</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ictimaitele" start="20261026152500 +0400" stop="20261026154500 +0400">
-    <title lang="ru">Sənədli film: "Xalqlar dostluğu"</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ictimaitele" start="20261026154500 +0400" stop="20261026163000 +0400">
-    <title lang="ru">Güləş üzrə Dünya Çempionatı.</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ictimaitele" start="20261026163000 +0400" stop="20261026170000 +0400">
-    <title lang="ru">İTV Xəbər</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ictimaitele" start="20261026170000 +0400" stop="20261026191000 +0400">
-    <title lang="ru">Güləş üzrə Dünya Çempionatı.</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ictimaitele" start="20261026191000 +0400" stop="20261026200000 +0400">
-    <title lang="ru">Çoxseriyalı bədii film: "Sığınacaq: Əkizlər"</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ictimaitele" start="20261026200000 +0400" stop="20261026210000 +0400">
-    <title lang="ru">İTV Xəbər</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ictimaitele" start="20261026210000 +0400" stop="20261026220000 +0400">
-    <title lang="ru">Sabaha saxlamayaq</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ictimaitele" start="20261026220000 +0400" stop="20261026230000 +0400">
-    <title lang="ru">Diqqət Mərkəzi</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ictimaitele" start="20261026230000 +0400" stop="20261026234500 +0400">
-    <title lang="ru">Serial: "Doktor Haus"</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ictimaitele" start="20261026234500 +0400" stop="20261027004500 +0400">
-    <title lang="ru">#bolidman</title>
-    <desc lang="ru" />
-  </programme>
   <programme channel="ictimaitele" start="20261027004500 +0400" stop="20261027022000 +0400">
     <title lang="ru">Bədii film: "Mister Dids"</title>
     <desc lang="ru" />
@@ -3641,269 +3613,101 @@
     <title lang="ru">Sənədli film: "Oğul"</title>
     <desc lang="ru" />
   </programme>
-  <programme channel="ictimaitele" start="20261109215000 +0400" stop="20261109215100 +0400">
+  <programme channel="ictimaitele" start="20261109215000 +0400" stop="20261110000000 +0400">
     <title lang="ru">Konsert proqramı</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110000000 +0400" stop="20261110021000 +0400">
+    <title lang="ru">Zəfər gecəsi</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110021000 +0400" stop="20261110035000 +0400">
+    <title lang="ru">Bədii film: "Məğlubedilməzlər"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110035000 +0400" stop="20261110044000 +0400">
+    <title lang="ru">Sənədli film: "Oğul"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110044000 +0400" stop="20261110062500 +0400">
+    <title lang="ru">Serial: "Braziliya prospekti"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110062500 +0400" stop="20261110070000 +0400">
+    <title lang="ru">Sənədli film: "Bayraq sevgisi"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110070000 +0400" stop="20261110080000 +0400">
+    <title lang="ru">Cizgi serialı: "Fikslər"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110080000 +0400" stop="20261110100000 +0400">
+    <title lang="ru">Sabahın xeyir, Azərbaycan!</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110100000 +0400" stop="20261110102500 +0400">
+    <title lang="ru">Cizgi serialı: "Maşanın qorxunc nağılları"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110102500 +0400" stop="20261110120000 +0400">
+    <title lang="ru">Serial: "Braziliya prospekti"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110120000 +0400" stop="20261110122500 +0400">
+    <title lang="ru">İTV Xəbər</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110122500 +0400" stop="20261110140000 +0400">
+    <title lang="ru">Bəxtiyar Vahabzadə 100 il. Qəlbin sonsuz səsi!</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110140000 +0400" stop="20261110142500 +0400">
+    <title lang="ru">İTV Xəbər</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110142500 +0400" stop="20261110153000 +0400">
+    <title lang="ru">Sənədli film</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110153000 +0400" stop="20261110160000 +0400">
+    <title lang="ru">MAG</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110160000 +0400" stop="20261110163000 +0400">
+    <title lang="ru">İTV Xəbər</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110163000 +0400" stop="20261110180000 +0400">
+    <title lang="ru">Azərbaycan kinosu</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110180000 +0400" stop="20261110183000 +0400">
+    <title lang="ru">İTV Xəbər</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110183000 +0400" stop="20261110200000 +0400">
+    <title lang="ru">Çoxseriyalı bədii film: "Sığınacaq: Əkizlər"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110200000 +0400" stop="20261110210000 +0400">
+    <title lang="ru">İTV Xəbər</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110210000 +0400" stop="20261110214000 +0400">
+    <title lang="ru">İLK DƏFƏ. Sənədli film: "Tarın canı Sadıqcan"</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110214000 +0400" stop="20261110234500 +0400">
+    <title lang="ru">Səməd Vurğun 120</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ictimaitele" start="20261110234500 +0400" stop="20261110234600 +0400">
+    <title lang="ru">Bədii film: "Məğlubedilməzlər 2"</title>
     <desc lang="ru" />
   </programme>
   <channel id="bakutv">
     <display-name lang="ru">Baku TV</display-name>
   </channel>
-  <programme channel="bakutv" start="20261108000000 +0400" stop="20261108005800 +0400">
-    <title lang="ru">XƏBƏR 00:00</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108005800 +0400" stop="20261108010000 +0400">
-    <title lang="ru">VİDEO ÇARX</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108010000 +0400" stop="20261108015800 +0400">
-    <title lang="ru">XƏBƏR 18:00 TƏKRAR</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108015800 +0400" stop="20261108020000 +0400">
-    <title lang="ru">ANONS</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108020000 +0400" stop="20261108025800 +0400">
-    <title lang="ru">XƏBƏR 19:00 TƏKRAR</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108025800 +0400" stop="20261108030000 +0400">
-    <title lang="ru">ANONS</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108030000 +0400" stop="20261108032500 +0400">
-    <title lang="ru">YEKUNLAŞDIRAQ (təkrar)</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108032500 +0400" stop="20261108033000 +0400">
-    <title lang="ru">İDMAN</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108033000 +0400" stop="20261108033300 +0400">
-    <title lang="ru">HAVA</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108033300 +0400" stop="20261108034000 +0400">
-    <title lang="ru">XÜLASƏ (təkrar)</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108034000 +0400" stop="20261108035000 +0400">
-    <title lang="ru">SÖZSÜZ BLOKU</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108035000 +0400" stop="20261108035700 +0400">
-    <title lang="ru">FOTO XƏBƏR</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108035700 +0400" stop="20261108040000 +0400">
-    <title lang="ru">NECƏ OLMALIDIR?</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108040000 +0400" stop="20261108045800 +0400">
-    <title lang="ru">XƏBƏR 21:00 TƏKRAR</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108045800 +0400" stop="20261108050000 +0400">
-    <title lang="ru">VİDEO ÇARX</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108050000 +0400" stop="20261108055900 +0400">
-    <title lang="ru">XƏBƏR 22:00 TƏKRAR</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108055900 +0400" stop="20261108060000 +0400">
-    <title lang="ru">ANONS</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108060000 +0400" stop="20261108065800 +0400">
-    <title lang="ru">XƏBƏR 23:00 TƏKRAR</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108065800 +0400" stop="20261108070000 +0400">
-    <title lang="ru">ANONS</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108070000 +0400" stop="20261108070300 +0400">
-    <title lang="ru">DÖVLƏT HİMNİ</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108070300 +0400" stop="20261108075800 +0400">
-    <title lang="ru">XƏBƏR 21:00 TƏKRAR</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108075800 +0400" stop="20261108080000 +0400">
-    <title lang="ru">HAVA</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108080000 +0400" stop="20261108085800 +0400">
-    <title lang="ru">XƏBƏR 00:00 TƏKRAR</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108085800 +0400" stop="20261108090000 +0400">
-    <title lang="ru">REKLAM BLOKU</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108090000 +0400" stop="20261108095800 +0400">
-    <title lang="ru">XƏBƏR  09:00</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108095800 +0400" stop="20261108100000 +0400">
-    <title lang="ru">REKLAM BLOKU</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108100000 +0400" stop="20261108105500 +0400">
-    <title lang="ru">XƏBƏR 10:00</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108105500 +0400" stop="20261108105700 +0400">
-    <title lang="ru">REKLAM BLOKU</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108105700 +0400" stop="20261108110000 +0400">
-    <title lang="ru">NECƏ OLMALIDIR?</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108110000 +0400" stop="20261108115700 +0400">
-    <title lang="ru">XƏBƏR 11:00</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108115700 +0400" stop="20261108120000 +0400">
-    <title lang="ru">REKLAM BLOKU</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108120000 +0400" stop="20261108125700 +0400">
-    <title lang="ru">XƏBƏR 12:00</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108125700 +0400" stop="20261108130000 +0400">
-    <title lang="ru">REKLAM BLOKU</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108130000 +0400" stop="20261108135600 +0400">
-    <title lang="ru">AKTUAL GÜNDƏM (təkrar)</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108135600 +0400" stop="20261108140000 +0400">
-    <title lang="ru">REKLAM BLOKU</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108140000 +0400" stop="20261108145600 +0400">
-    <title lang="ru">XƏBƏR 14:00</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108145600 +0400" stop="20261108150000 +0400">
-    <title lang="ru">REKLAM BLOKU</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108150000 +0400" stop="20261108154800 +0400">
-    <title lang="ru">XƏBƏR 15:00</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108154800 +0400" stop="20261108155300 +0400">
-    <title lang="ru">İDMAN</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108155300 +0400" stop="20261108155500 +0400">
-    <title lang="ru">HAVA</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108155500 +0400" stop="20261108160000 +0400">
-    <title lang="ru">REKLAM BLOKU</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108160000 +0400" stop="20261108165600 +0400">
-    <title lang="ru">XƏBƏR 16:00</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108165600 +0400" stop="20261108170000 +0400">
-    <title lang="ru">REKLAM BLOKU</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108170000 +0400" stop="20261108175400 +0400">
-    <title lang="ru">XƏBƏR 17:00</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108175400 +0400" stop="20261108175600 +0400">
-    <title lang="ru">ANONS</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108175600 +0400" stop="20261108180000 +0400">
-    <title lang="ru">REKLAM BLOKU</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108180000 +0400" stop="20261108185400 +0400">
-    <title lang="ru">XƏBƏR 18:00</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108185400 +0400" stop="20261108190000 +0400">
-    <title lang="ru">REKLAM BLOKU</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108190000 +0400" stop="20261108195500 +0400">
-    <title lang="ru">XƏBƏR 19:00</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108195500 +0400" stop="20261108200000 +0400">
-    <title lang="ru">REKLAM BLOKU</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108200000 +0400" stop="20261108202500 +0400">
-    <title lang="ru">YEKUNLAŞDIRAQ</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108202500 +0400" stop="20261108203000 +0400">
-    <title lang="ru">İDMAN</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108203000 +0400" stop="20261108203300 +0400">
-    <title lang="ru">HAVA</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108203300 +0400" stop="20261108204000 +0400">
-    <title lang="ru">XÜLASƏ</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108204000 +0400" stop="20261108205000 +0400">
-    <title lang="ru">SÖZSÜZ BLOKU</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108205000 +0400" stop="20261108205200 +0400">
-    <title lang="ru">FOTO XƏBƏR</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108205200 +0400" stop="20261108205700 +0400">
-    <title lang="ru">REKLAM BLOKU</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108205700 +0400" stop="20261108210000 +0400">
-    <title lang="ru">NECƏ OLMALIDIR?</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108210000 +0400" stop="20261108215400 +0400">
-    <title lang="ru">XƏBƏR 21:00</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108215400 +0400" stop="20261108220000 +0400">
-    <title lang="ru">REKLAM BLOKU</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108220000 +0400" stop="20261108225600 +0400">
-    <title lang="ru">XƏBƏR 22:00</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108225600 +0400" stop="20261108230000 +0400">
-    <title lang="ru">REKLAM BLOKU</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108230000 +0400" stop="20261108235800 +0400">
-    <title lang="ru">XƏBƏR 23:00</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="bakutv" start="20261108235800 +0400" stop="20261108000000 +0400">
-    <title lang="ru">REKLAM BLOKU</title>
-    <desc lang="ru" />
-  </programme>
   <programme channel="bakutv" start="20261109000000 +0400" stop="20261109005800 +0400">
     <title lang="ru">24 SAAT</title>
     <desc lang="ru" />
@@ -5431,74 +5235,6 @@
   <channel id="idmantele">
     <display-name lang="ru">Idman</display-name>
   </channel>
-  <programme channel="idmantele" start="20261026070000 +0400" stop="20261026083000 +0400">
-    <title lang="ru">Atçılıq.Konkur</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="idmantele" start="20261026083000 +0400" stop="20261026100000 +0400">
-    <title lang="ru">İdman Səhər (canlı)</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="idmantele" start="20261026100000 +0400" stop="20261026120000 +0400">
-    <title lang="ru">Basketbol.Azərbaycan çempionatı Neftçi – Gəncə</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="idmantele" start="20261026120000 +0400" stop="20261026123000 +0400">
-    <title lang="ru">İdman xəbər</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="idmantele" start="20261026123000 +0400" stop="20261026143000 +0400">
-    <title lang="ru">Futbol.Azərbaycan Premyer Liqası Sabah - Qarabağ</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="idmantele" start="20261026143000 +0400" stop="20261026150000 +0400">
-    <title lang="ru">Liqa Star</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="idmantele" start="20261026150000 +0400" stop="20261026160000 +0400">
-    <title lang="ru">S/F.”Keyla Massel”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="idmantele" start="20261026160000 +0400" stop="20261026163000 +0400">
-    <title lang="ru">İdman xəbər</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="idmantele" start="20261026163000 +0400" stop="20261026173000 +0400">
-    <title lang="ru">İngiltərə çempionatının icmalı (yeni)</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="idmantele" start="20261026173000 +0400" stop="20261026190000 +0400">
-    <title lang="ru">Üzgüçülük.Dünya kuboku</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="idmantele" start="20261026190000 +0400" stop="20261026193000 +0400">
-    <title lang="ru">İdman xəbər</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="idmantele" start="20261026193000 +0400" stop="20261026203000 +0400">
-    <title lang="ru">Peşəkar Çövkən Liqası</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="idmantele" start="20261026203000 +0400" stop="20261026210000 +0400">
-    <title lang="ru">Sonuncu qarşıdurma</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="idmantele" start="20261026210000 +0400" stop="20261026223000 +0400">
-    <title lang="ru">Futbol Var (canlı)</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="idmantele" start="20261026223000 +0400" stop="20261026233000 +0400">
-    <title lang="ru">İngiltərə çempionatının icmalı</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="idmantele" start="20261026233000 +0400" stop="20261027000000 +0400">
-    <title lang="ru">Monster Avtomobil Şousu</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="idmantele" start="20261027000000 +0400" stop="20261027020000 +0400">
-    <title lang="ru">Futbol.İspaniya çempionatı Sevilya - Osasuna (canlı)</title>
-    <desc lang="ru" />
-  </programme>
   <programme channel="idmantele" start="20261027020000 +0400" stop="20261027030000 +0400">
     <title lang="ru">MMA döyüş klubu</title>
     <desc lang="ru" />
@@ -6579,8 +6315,80 @@
     <title lang="ru">Sənədli film</title>
     <desc lang="ru" />
   </programme>
-  <programme channel="idmantele" start="20261109233000 +0400" stop="20261109233100 +0400">
+  <programme channel="idmantele" start="20261109233000 +0400" stop="20261110013000 +0400">
     <title lang="ru">Futbol.İngiltərə FA kuboku Plimut - Berkmasted (canlı)</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110013000 +0400" stop="20261110030000 +0400">
+    <title lang="ru">UFC döyüş gecəsi</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110030000 +0400" stop="20261110050000 +0400">
+    <title lang="ru">Basketbol.Avroliqa</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110050000 +0400" stop="20261110070000 +0400">
+    <title lang="ru">Futbol.İspaniya çempionatı</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110070000 +0400" stop="20261110080000 +0400">
+    <title lang="ru">GT dünya seriyası</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110080000 +0400" stop="20261110083000 +0400">
+    <title lang="ru">Sonuncu qarşıdurma</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110083000 +0400" stop="20261110100000 +0400">
+    <title lang="ru">Bədii gimnastika.Avropa kuboku</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110100000 +0400" stop="20261110113000 +0400">
+    <title lang="ru">Atçılıq.Yorğa (canlı)</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110113000 +0400" stop="20261110120000 +0400">
+    <title lang="ru">Sportmiks</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110120000 +0400" stop="20261110123000 +0400">
+    <title lang="ru">İdman xəbər</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110123000 +0400" stop="20261110140000 +0400">
+    <title lang="ru">Futbol var</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110140000 +0400" stop="20261110160000 +0400">
+    <title lang="ru">Futbol.İngiltərə FA kuboku Plimut - Berkmasted</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110160000 +0400" stop="20261110163000 +0400">
+    <title lang="ru">İdman xəbər</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110163000 +0400" stop="20261110173000 +0400">
+    <title lang="ru">İngiltərə çempionatının icmalı (yeni)</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110173000 +0400" stop="20261110180000 +0400">
+    <title lang="ru">S/F.”Drift kraliçası” (yeni)</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110180000 +0400" stop="20261110200000 +0400">
+    <title lang="ru">Voleybol.Çempionlar Liqası Turan – Maritsa (canlı)</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110200000 +0400" stop="20261110210000 +0400">
+    <title lang="ru">Qlobal futbol (canlı)</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110210000 +0400" stop="20261110220000 +0400">
+    <title lang="ru">S/F.”Sübh çağı”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="idmantele" start="20261110220000 +0400" stop="20261110220100 +0400">
+    <title lang="ru">Futbol.Almaniya çempionatı</title>
     <desc lang="ru" />
   </programme>
   <channel id="arb">
@@ -6592,102 +6400,6 @@
   <channel id="medeniyyettele">
     <display-name lang="ru">Medaniyyet</display-name>
   </channel>
-  <programme channel="medeniyyettele" start="20261026070000 +0400" stop="20261026073000 +0400">
-    <title lang="ru">SƏNƏDLİ FİLM “KAİNATIN SİRLƏRİ”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026073000 +0400" stop="20261026080000 +0400">
-    <title lang="ru">“OXUYUR VƏTƏN”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026080000 +0400" stop="20261026110000 +0400">
-    <title lang="ru">“SƏHƏRÇAĞI”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026110000 +0400" stop="20261026113000 +0400">
-    <title lang="ru">KLİPLƏR</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026113000 +0400" stop="20261026123000 +0400">
-    <title lang="ru">“DİRİLƏN ADAM” SERİAL.15-Cİ BÖLÜM</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026123000 +0400" stop="20261026130000 +0400">
-    <title lang="ru">“ŞUŞADA MUSİQİ GÜNLƏRİ”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026130000 +0400" stop="20261026133000 +0400">
-    <title lang="ru">“VƏTƏNİN SƏSİ”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026133000 +0400" stop="20261026140000 +0400">
-    <title lang="ru">“QİRAƏTÇİ”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026140000 +0400" stop="20261026143000 +0400">
-    <title lang="ru">MƏDƏNİYYƏT XƏBƏRLƏRİ</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026143000 +0400" stop="20261026153000 +0400">
-    <title lang="ru">“DANIŞIR MUSİQİ”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026153000 +0400" stop="20261026160000 +0400">
-    <title lang="ru">“GƏNCSƏN”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026160000 +0400" stop="20261026170000 +0400">
-    <title lang="ru">KONSERT PROQRAMI</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026170000 +0400" stop="20261026173000 +0400">
-    <title lang="ru">KLİPLƏR</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026173000 +0400" stop="20261026180000 +0400">
-    <title lang="ru">“DİYAR-DİYAR”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026180000 +0400" stop="20261026183000 +0400">
-    <title lang="ru">SƏMA, DƏNİZ, MUSİQİ</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026183000 +0400" stop="20261026190000 +0400">
-    <title lang="ru">“BİZ”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026190000 +0400" stop="20261026192500 +0400">
-    <title lang="ru">“AKUSTİK”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026192500 +0400" stop="20261026200000 +0400">
-    <title lang="ru">“QONAQ QAPIDA”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026200000 +0400" stop="20261026203500 +0400">
-    <title lang="ru">MƏDƏNİYYƏT XƏBƏRLƏRİ</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026203500 +0400" stop="20261026210000 +0400">
-    <title lang="ru">“NAĞIL VAXTI”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026210000 +0400" stop="20261026215000 +0400">
-    <title lang="ru">“AKUSTİK”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026215000 +0400" stop="20261026220000 +0400">
-    <title lang="ru">“QİRAƏTÇİ”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026220000 +0400" stop="20261026230000 +0400">
-    <title lang="ru">“DİRİLƏN ADAM” SERİAL. 16-CI BÖLÜM</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="medeniyyettele" start="20261026230000 +0400" stop="20261027003000 +0400">
-    <title lang="ru">KONSERT PROQRAMI</title>
-    <desc lang="ru" />
-  </programme>
   <programme channel="medeniyyettele" start="20261027003000 +0400" stop="20261027023000 +0400">
     <title lang="ru">BƏDİİ FİLM “ÇƏTİN TAPŞIRIQ”</title>
     <desc lang="ru" />
@@ -8432,8 +8144,128 @@
     <title lang="ru">“DİRİLƏN ADAM” SERİAL. 25-Cİ BÖLÜM</title>
     <desc lang="ru" />
   </programme>
-  <programme channel="medeniyyettele" start="20261109230000 +0400" stop="20261109230100 +0400">
+  <programme channel="medeniyyettele" start="20261109230000 +0400" stop="20261110010000 +0400">
     <title lang="ru">KONSERT PROQRAMI</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110010000 +0400" stop="20261110030000 +0400">
+    <title lang="ru">BƏDİİ FİLM “BURQUNDİYAYA QAYIDIŞ”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110030000 +0400" stop="20261110040000 +0400">
+    <title lang="ru">CAZ MUSİQİSİ</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110040000 +0400" stop="20261110042500 +0400">
+    <title lang="ru">“QONAQ QAPIDA”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110042500 +0400" stop="20261110050000 +0400">
+    <title lang="ru">“XARIBÜLBÜL”FESTİVALI</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110050000 +0400" stop="20261110060000 +0400">
+    <title lang="ru">“DANIŞIR MUSİQİ”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110060000 +0400" stop="20261110062500 +0400">
+    <title lang="ru">“ƏSLİNDƏ BİZ”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110062500 +0400" stop="20261110065500 +0400">
+    <title lang="ru">KLiPLƏR</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110065500 +0400" stop="20261110070000 +0400">
+    <title lang="ru">HİMN</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110070000 +0400" stop="20261110073000 +0400">
+    <title lang="ru">SƏNƏDLİ FİLM “SUALTI DÜNYA”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110073000 +0400" stop="20261110080000 +0400">
+    <title lang="ru">“OXUYUR VƏTƏN”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110080000 +0400" stop="20261110110000 +0400">
+    <title lang="ru">“SƏHƏRÇAĞI”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110110000 +0400" stop="20261110113000 +0400">
+    <title lang="ru">KLİPLƏR</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110113000 +0400" stop="20261110123000 +0400">
+    <title lang="ru">“DİRİLƏN ADAM” SERİAL. 25-Cİ BÖLÜM</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110123000 +0400" stop="20261110130000 +0400">
+    <title lang="ru">MUSİQİ DƏQİQƏLƏRİ</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110130000 +0400" stop="20261110133000 +0400">
+    <title lang="ru">“MƏNİMLƏ RƏQS ET”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110133000 +0400" stop="20261110140000 +0400">
+    <title lang="ru">“QİRAƏTÇİ”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110140000 +0400" stop="20261110143000 +0400">
+    <title lang="ru">MƏDƏNIYYƏT XƏBƏRLƏRI</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110143000 +0400" stop="20261110150000 +0400">
+    <title lang="ru">“QONAQ QAPIDA”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110150000 +0400" stop="20261110160000 +0400">
+    <title lang="ru">KONSERT PROQRAMI</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110160000 +0400" stop="20261110165000 +0400">
+    <title lang="ru">“1-Cİ ŞOU”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110165000 +0400" stop="20261110170000 +0400">
+    <title lang="ru">ANONSLAR</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110170000 +0400" stop="20261110180000 +0400">
+    <title lang="ru">“BACKSTAGE”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110180000 +0400" stop="20261110192500 +0400">
+    <title lang="ru">KONSERT PROQRAMI.</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110192500 +0400" stop="20261110200000 +0400">
+    <title lang="ru">“QONAQ QAPIDA”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110200000 +0400" stop="20261110203500 +0400">
+    <title lang="ru">MƏDƏNIYYƏT XƏBƏRLƏRI</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110203500 +0400" stop="20261110210000 +0400">
+    <title lang="ru">“NAĞIL VAXTI”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110210000 +0400" stop="20261110214500 +0400">
+    <title lang="ru">MUSİQİ DƏQİQƏLƏRİ</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110214500 +0400" stop="20261110220000 +0400">
+    <title lang="ru">“QİRAƏTÇİ”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110220000 +0400" stop="20261110230000 +0400">
+    <title lang="ru">“DİRİLƏN ADAM” SERİAL. 26-CI BÖLÜM</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="medeniyyettele" start="20261110230000 +0400" stop="20261110230100 +0400">
+    <title lang="ru">KONSERT PROQRAMI.</title>
     <desc lang="ru" />
   </programme>
   <channel id="space">
@@ -10180,106 +10012,6 @@
   <channel id="ntv">
     <display-name lang="ru">NXTV</display-name>
   </channel>
-  <programme channel="ntv" start="20261026075500 +0400" stop="20261026080000 +0400">
-    <title lang="ru">Azərbaycan Respublikasının Dövlət Himni</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026080000 +0400" stop="20261026100000 +0400">
-    <title lang="ru">NTV səhər (CANLI)</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026100000 +0400" stop="20261026102000 +0400">
-    <title lang="ru">İşinin adamı</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026102000 +0400" stop="20261026110000 +0400">
-    <title lang="ru">Televiziya filmi: “Yarımçıq ömrün akkordları”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026110000 +0400" stop="20261026111500 +0400">
-    <title lang="ru">Xəbərlər</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026111500 +0400" stop="20261026122500 +0400">
-    <title lang="ru">İmza</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026122500 +0400" stop="20261026130000 +0400">
-    <title lang="ru">İrs</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026130000 +0400" stop="20261026131500 +0400">
-    <title lang="ru">Xəbərlər</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026131500 +0400" stop="20261026140000 +0400">
-    <title lang="ru">Bu həftə</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026140000 +0400" stop="20261026143500 +0400">
-    <title lang="ru">104.1 TV</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026143500 +0400" stop="20261026150000 +0400">
-    <title lang="ru">Konsert: Bəstəkar Ramiz Mirişlinin mahnıları</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026150000 +0400" stop="20261026151500 +0400">
-    <title lang="ru">Xəbərlər</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026151500 +0400" stop="20261026163000 +0400">
-    <title lang="ru">Azərbaycan kinosu: “İnsan məskən salır”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026163000 +0400" stop="20261026170000 +0400">
-    <title lang="ru">Dünya ədəbi inciləri</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026170000 +0400" stop="20261026170500 +0400">
-    <title lang="ru">Xəbərlər (İngilis dilində)</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026170500 +0400" stop="20261026181500 +0400">
-    <title lang="ru">Cəsur güc</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026181500 +0400" stop="20261026190000 +0400">
-    <title lang="ru">Televiziya filmi: “Mövlud Süleymanlı ilə əbədiləşən yol”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026190000 +0400" stop="20261026203000 +0400">
-    <title lang="ru">Xəbərlər</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026203000 +0400" stop="20261026211000 +0400">
-    <title lang="ru">Söz mülkünün sultanı</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026211000 +0400" stop="20261026220000 +0400">
-    <title lang="ru">Televiziya filmi: “Böyük sürgün”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026220000 +0400" stop="20261026223500 +0400">
-    <title lang="ru">Xəbərlər</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026223500 +0400" stop="20261026230500 +0400">
-    <title lang="ru">Sənədli televiziya filmi: “Unudulmayan sənətkar: Rza Təhmasib”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026230500 +0400" stop="20261026235000 +0400">
-    <title lang="ru">Teleserial: “Çinar ömrü”</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261026235000 +0400" stop="20261027000000 +0400">
-    <title lang="ru">“Qərbi Azərbaycana Qayıdış” III Festival- konqresin bədii hissəsi</title>
-    <desc lang="ru" />
-  </programme>
-  <programme channel="ntv" start="20261027000000 +0400" stop="20261027075500 +0400">
-    <title lang="ru">Naxçıvan Dövlət Filarmoniyasının Xalq Çalğı Alətləri Orkestrinin Konserti</title>
-    <desc lang="ru" />
-  </programme>
   <programme channel="ntv" start="20261027075500 +0400" stop="20261027080000 +0400">
     <title lang="ru">Azərbaycan Respublikasının Dövlət Himni</title>
     <desc lang="ru" />
@@ -11736,8 +11468,108 @@
     <title lang="ru">Televiziya filmi: “Zəngəzur dağları”</title>
     <desc lang="ru" />
   </programme>
-  <programme channel="ntv" start="20261109231000 +0400" stop="20261109231100 +0400">
+  <programme channel="ntv" start="20261109231000 +0400" stop="20261110003000 +0400">
     <title lang="ru">Teleserial: “Çinar ömrü”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110003000 +0400" stop="20261110075500 +0400">
+    <title lang="ru">Naxçıvan Dövlət Universiteti İncəsənət Fakültəsinin “ADA BAND” rok qrupunun konserti</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110075500 +0400" stop="20261110080000 +0400">
+    <title lang="ru">Azərbaycan Respublikasının Dövlət Himni</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110080000 +0400" stop="20261110090000 +0400">
+    <title lang="ru">“Nuhçıxan” Xalq Çalğı Alətləri Ansamblının konserti</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110090000 +0400" stop="20261110100000 +0400">
+    <title lang="ru">Qonaq ol</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110100000 +0400" stop="20261110110000 +0400">
+    <title lang="ru">Televiziya filmi: “Qonşu qonşu olsa...”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110110000 +0400" stop="20261110112000 +0400">
+    <title lang="ru">Xəbərlər</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110112000 +0400" stop="20261110122000 +0400">
+    <title lang="ru">Televiziya filmi: “Əsrlərdən gələn səslər”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110122000 +0400" stop="20261110130000 +0400">
+    <title lang="ru">Vətən uğrunda</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110130000 +0400" stop="20261110131500 +0400">
+    <title lang="ru">Xəbərlər</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110131500 +0400" stop="20261110134000 +0400">
+    <title lang="ru">Haqqa doğru</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110134000 +0400" stop="20261110143500 +0400">
+    <title lang="ru">Xalq artisti Nazpəri Dostəliyevanın solo konserti</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110143500 +0400" stop="20261110151000 +0400">
+    <title lang="ru">Sağlam yaşa</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110151000 +0400" stop="20261110160000 +0400">
+    <title lang="ru">Sənədli televiziya filmi: “Kitabi-Dədə Qorqud və Naxçıvan”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110160000 +0400" stop="20261110165000 +0400">
+    <title lang="ru">Teleserial: “Çinar ömrü”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110165000 +0400" stop="20261110174500 +0400">
+    <title lang="ru">Televiziya filmi: “Akademik Yusif Məmmədəliyev”</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110174500 +0400" stop="20261110181000 +0400">
+    <title lang="ru">Dünya ədəbi inciləri</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110181000 +0400" stop="20261110190000 +0400">
+    <title lang="ru">Ölümsüzlər</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110190000 +0400" stop="20261110193000 +0400">
+    <title lang="ru">Xəbərlər</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110193000 +0400" stop="20261110200000 +0400">
+    <title lang="ru">Azərbaycan Respublikasının Əməkdar İncəsənət Xadimi, Pedaqoq, Bəstəkar Rəşid Məmmədovun 90 illik yubileyinə həsr olunmuş konsert proqramı</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110200000 +0400" stop="20261110204000 +0400">
+    <title lang="ru">Ləzzətin izi ilə</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110204000 +0400" stop="20261110213000 +0400">
+    <title lang="ru">Cəsur güc</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110213000 +0400" stop="20261110220000 +0400">
+    <title lang="ru">104.1 TV</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110220000 +0400" stop="20261110223000 +0400">
+    <title lang="ru">Xəbərlər</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110223000 +0400" stop="20261110230000 +0400">
+    <title lang="ru">Zəfərə gedən yol</title>
+    <desc lang="ru" />
+  </programme>
+  <programme channel="ntv" start="20261110230000 +0400" stop="20261110230100 +0400">
+    <title lang="ru">Azərbaycan kinosu: “Onu bağışlamaq olarmı?”</title>
     <desc lang="ru" />
   </programme>
   <channel id="qafkaz">
